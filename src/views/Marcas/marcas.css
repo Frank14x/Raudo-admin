@@ -1,0 +1,20 @@
+#Delete{
+	color: red !important ;
+}
+#Edit{
+	color: orange !important;
+}
+/*Form*/
+.noimg img{
+	width:60%;
+	height:100%;
+
+}
+.AppSwitch
+{
+	right: 35px;
+}
+
+.Btn-marca{
+margin-bottom: 15px;
+}

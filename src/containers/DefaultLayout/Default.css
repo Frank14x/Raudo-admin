@@ -1,0 +1,20 @@
+/*Header */
+.search-header{
+	background-color: rgba(32, 168, 216, 0);
+	border-bottom: 2px solid #c8ced3;
+}
+
+/*Layout*/
+
+.img-avatar{
+width: 25%;
+}
+
+.avatar-siderbar{
+border-bottom: 2px solid #fff;
+border-top: 2px solid #fff;
+}
+
+.DropdownToggle-padding.nav-link{
+    padding-top: 0px;
+}
